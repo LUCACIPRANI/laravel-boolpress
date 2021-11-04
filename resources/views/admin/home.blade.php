@@ -1,4 +1,6 @@
-@extends('layouts.app')
+{{-- HOME BLADE ADMIN --}}
+
+@extends('layouts.dashboard')
 
 @section('content')
 <div class="container">

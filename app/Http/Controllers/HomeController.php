@@ -1,4 +1,5 @@
 <?php
+// HOME CONTROLLER GUEST
 
 namespace App\Http\Controllers;
 
